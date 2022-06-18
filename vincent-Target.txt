@@ -1,5 +1,6 @@
 Target Dilakukan:
 - Update website portfolio
   * Mengupdate portfolio
-  * Mengupdate Certificate
+  * Edit link Portfolio
 - Menyelesaikan Class laravel flutter
+  * Improve hasil class
