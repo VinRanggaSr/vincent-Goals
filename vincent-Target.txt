@@ -4,3 +4,4 @@ Target Dilakukan:
   * Mengupdate Certificate
   * Mengupdate hyperlink
 - Menyelesaikan Class laravel flutter
+  * Improve hasil class
