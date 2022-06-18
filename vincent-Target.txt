@@ -1,2 +1,4 @@
 Target Dilakukan:
 - Update website portfolio
+  * Mengupdate portfolio
+  * Mengupdate Certificate
