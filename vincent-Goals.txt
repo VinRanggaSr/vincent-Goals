@@ -1,0 +1,4 @@
+My targets
+- Expand portfolio UI Designer
+- Learn GitHub
+- Learn Laravel
