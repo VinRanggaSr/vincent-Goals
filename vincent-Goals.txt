@@ -1,5 +1,5 @@
 My targets
-- Expand portfolio UI Designer
+- Expand portfolio UI Designer (Progress)
 - Learn GitHub
 - Learn Laravel
 - Can Flutter
